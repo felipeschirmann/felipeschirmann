@@ -144,13 +144,13 @@ You can click the Preview link to take a look at your changes.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring"
           width="40" height="40" />
       </a>
-      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-          alt="laravel" width="40" height="40" />
-      </a>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
           alt="wordpress" width="40" height="40" />
+      </a>
+      <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+          alt="laravel" width="40" height="40" />
       </a>
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
