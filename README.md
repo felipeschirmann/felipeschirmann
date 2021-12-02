@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
   <summary>acknowledgements</summary>
   <p>
     ```javascript
-    acknowledgements {
+    var acknowledgements =  {
     "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
     "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
     "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
