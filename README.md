@@ -185,15 +185,17 @@ felipeschirmann {
   </kbd>
 </div>
 <br />
+<hr/>
 <br />
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="felipeschirmann"  width="40%" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=2300&theme=dark" width="40%" />/>
+    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=2300&theme=dark" width="50%" />
 </p>
 <br />
+<hr/>
 <br />
 <h3 align="left">Support:</h3>
 <p>
