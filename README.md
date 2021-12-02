@@ -195,6 +195,8 @@ felipeschirmann {
     src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="48%" />
 </p>
 <br />
+<br />
+<br />
 <hr/>
 <br />
 <h3 align="left">Support:</h3>
