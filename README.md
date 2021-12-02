@@ -17,9 +17,9 @@ You can click the Preview link to take a look at your changes.
       alt="https://www.linkedin.com/in/felipeschirmann/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" >Languages and Tools:</h3>
 <br />
-<kbd>
+<kbd margin="10px" padding="10px">
   <kbd>
     <kbd>Languages:</kbd>
     <br />
