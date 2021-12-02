@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary>acknowledgements</summary>
   ```javascript
+  {
   var acknowledgements = {
   "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
   "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
@@ -19,13 +20,14 @@ You can click the Preview link to take a look at your changes.
   "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
   "Tools - Monitoring" = ["Zabbix"]
   }
+  }
   ```
 </details>
 <details>
   <summary>studiesInProgress</summary>
   ```javascript
   {
-    "Frameworks Backend" = ["SpringBoot", "Adonis"],
+  "Frameworks Backend" = ["SpringBoot", "Adonis"],
   "Software Development" = ["Design Patterns", "Test-driven development"]
   }
   ```
