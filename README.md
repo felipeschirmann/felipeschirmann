@@ -2,8 +2,32 @@
 felipeschirmann/felipeschirmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Felipe Schirmann</h1>
+<h1 align="center">Hi 👋, I'm {Felipe Schirmann}</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
+
+```javascript
+**felipeschirmann** {
+const name = "Felipe Schirmann Francisco",
+var acknowledgements = [
+"Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
+"Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
+"Frameworks Frontend" = ["Bootstrap", "Grafana" ],
+"Frameworks Backend" = ["Adonis", "SpringBoot", "Laravel"],
+"CMS" = ["WordPress", "Joomla"],
+"Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
+"Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
+"Tools - Monitoring" = ["Zabbix"]
+],
+var studiesInProgress = [
+"Frameworks Backend" = ["SpringBoot", "Adonis"],
+"Software Development" = ["Design Patterns", "Test-driven development"]
+],
+var studiesForFuture = [
+"Languages" = ["Python", "Go" ,"RegEx"],
+"DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"],
+]
+}
+```
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=felipeschirmann&label=Profile%20views&color=0e75b6&style=flat"
@@ -58,10 +82,10 @@ You can click the Preview link to take a look at your changes.
           width="40" height="40" />
       </a>
     </div>
-    <br/>
+    <br />
   </kbd>
-  <br/>
-  <br/>
+  <br />
+  <br />
   <kbd>
     <kbd>Tools:</kbd>
     <div style="margin: 20px; padding: 20px;">
@@ -95,7 +119,7 @@ You can click the Preview link to take a look at your changes.
           height="40" />
       </a>
     </div>
-    <br/>
+    <br />
   </kbd>
   <br />
   <br />
@@ -123,10 +147,10 @@ You can click the Preview link to take a look at your changes.
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
       </a>
     </div>
-    <br/>
+    <br />
   </kbd>
-  <br/>
-  <br/>
+  <br />
+  <br />
   <kbd>
     <kbd>Frameworks:</kbd>
     <div style="margin: 20px; padding: 20px;">
@@ -145,8 +169,8 @@ You can click the Preview link to take a look at your changes.
           width="40" height="40" />
       </a>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
-          alt="wordpress" width="40" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress"
+          width="40" height="40" />
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
@@ -158,7 +182,7 @@ You can click the Preview link to take a look at your changes.
           alt="cypress" width="40" height="40" />
       </a>
     </div>
-    <br/>
+    <br />
   </kbd>
 </div>
 <br />
@@ -172,8 +196,8 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/felipeschirmann">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
-    height="50" width="210" alt="felipeschirmann" />
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"
+      alt="felipeschirmann" />
   </a>
 </p>
 <br>
