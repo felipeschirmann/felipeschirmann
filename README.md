@@ -58,6 +58,7 @@ You can click the Preview link to take a look at your changes.
           width="40" height="40" />
       </a>
     </div>
+    <br/>
   </kbd>
   <br/>
   <br/>
@@ -94,6 +95,7 @@ You can click the Preview link to take a look at your changes.
           height="40" />
       </a>
     </div>
+    <br/>
   </kbd>
   <br />
   <br />
@@ -121,6 +123,7 @@ You can click the Preview link to take a look at your changes.
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
       </a>
     </div>
+    <br/>
   </kbd>
   <br/>
   <br/>
@@ -151,6 +154,7 @@ You can click the Preview link to take a look at your changes.
           alt="cypress" width="40" height="40" />
       </a>
     </div>
+    <br/>
   </kbd>
 </div>
 <br />
