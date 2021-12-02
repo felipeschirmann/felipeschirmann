@@ -191,7 +191,7 @@ felipeschirmann {
   <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="felipeschirmann"  width="40%" />
-  <img align="rigth"
+  <img align="right"
     src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="48%" />
 </p>
 <br />
