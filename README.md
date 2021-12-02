@@ -35,15 +35,13 @@ felipeschirmann {
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/felipeschirmann/" target="blank"><img align="center"
+< align="left">
+  <a href="https://linkedin.com/in/felipeschirmann/" target="blank"><img 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/felipeschirmann/" height="48" width="48" /></a>
-</p>
-
-<p align="left">
-  <a href="https://linkedin.com/in/felipeschirmann/" target="blank">
-  <img src="https://img.icons8.com/color/48/000000/whatsapp--v6.png"/>
+      alt="https://www.linkedin.com/in/felipeschirmann/" height="48" width="48" />
+      </a>
+  <a href="https://api.whatsapp.com/send?phone=5527992790505" target="blank"> <img 
+    src="https://img.icons8.com/color/48/000000/whatsapp--v6.png" alt="Whatsapp" height="48" width="48"/>
   </a>
 </p>
 
