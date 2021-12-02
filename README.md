@@ -123,6 +123,10 @@ You can click the Preview link to take a look at your changes.
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
           alt="bootstrap" width="40" height="40" />
       </a>
+      <a href="https://adonisjs.com/" target="_blank" rel="noreferrer"> <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg"
+          alt="adonisjs" width="40" height="40" />
+      </a>
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
           src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
       </a>
