@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ```javascript
 felipeschirmann {
 const name = "Felipe Schirmann Francisco",
-var acknowledgements = [
+let acknowledgements = [
 "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
 "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
 "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
@@ -18,11 +18,11 @@ var acknowledgements = [
 "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
 "Tools - Monitoring" = ["Zabbix"]
 ],
-var studiesInProgress = [
+let studiesInProgress = [
 "Frameworks Backend" = ["SpringBoot", "Adonis"],
 "Software Development" = ["Design Patterns", "Test-driven development"]
 ],
-var studiesForFuture = [
+let studiesForFuture = [
 "Languages" = ["Python", "Go" ,"RegEx"],
 "DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"],
 ]
