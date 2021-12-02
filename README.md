@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <br />
-<kbd align="center">
+<kbd align="left">
   <kbd>Languages:</kbd>
   <br />
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
