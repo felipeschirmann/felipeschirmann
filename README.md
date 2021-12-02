@@ -9,23 +9,23 @@ You can click the Preview link to take a look at your changes.
 felipeschirmann {
 const name = "Felipe Schirmann Francisco"
 let acknowledgements = [
-"Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
-"Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
-"Frameworks Frontend" = ["Bootstrap", "Grafana" ],
-"Frameworks Backend" = ["Adonis", "SpringBoot", "Laravel"],
-"CMS" = ["WordPress", "Joomla"],
-"Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
-"Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
-"Tools - Monitoring" = ["Zabbix"]
-]
-let studiesInProgress = [
-"Frameworks Backend" = ["SpringBoot", "Adonis"],
-"Software Development" = ["Design Patterns", "Test-driven development"]
-]
-let studiesForFuture = [
-"Languages" = ["Python", "Go" ,"RegEx"],
-"DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"],
-]
+    "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP",   "C", "C++" ],
+    "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
+    "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
+    "Frameworks Backend" = ["Adonis", "SpringBoot", "Laravel"],
+    "CMS" = ["WordPress", "Joomla"],
+    "Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
+    "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
+    "Tools - Monitoring" = ["Zabbix"]
+  ]
+  let studiesInProgress = [
+    "Frameworks Backend" = ["SpringBoot", "Adonis"],
+    "Software Development" = ["Design Patterns", "Test-driven development"]
+  ]
+  let studiesForFuture = [
+    "Languages" = ["Python", "Go" ,"RegEx"],
+    "DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"]
+  ]
 }
 ```
 
@@ -33,7 +33,6 @@ let studiesForFuture = [
     src="https://komarev.com/ghpvc/?username=felipeschirmann&label=Profile%20views&color=0e75b6&style=flat"
     alt="felipeschirmann" />
 </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
