@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left" >Languages and Tools:</h3>
 <br />
-<kbd margin="10px" padding="10px">
+<kbd margin="20px" padding="20px">
   <kbd>
     <kbd>Languages:</kbd>
     <br />
