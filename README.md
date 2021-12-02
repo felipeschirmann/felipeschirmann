@@ -53,33 +53,35 @@ felipeschirmann {
       <br />
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5" width="15%" />
+          alt="html5" width="7%" />
       </a>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3" width="15%" />
+          alt="css3" width="7%" />
       </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript" width="15%" />
+          alt="javascript" width="7%" />
       </a>
       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs" width="15%" />
+          alt="nodejs" width="7%" />
       </a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-          alt="typescript" width="15%" />
+          alt="typescript" width="7%" />
       </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react" width="15%" />
+          alt="react" width="7%" />
       </a>
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="15%" />
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" 
+          alt="java" width="7%" />
       </a>
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="15%" />
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+          alt="php" width="7%" />
       </a>
     </div>
     <br />
@@ -93,28 +95,31 @@ felipeschirmann {
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-          alt="aws" width="15%" />
+          alt="aws" width="7%" />
       </a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="15%" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" 
+        alt="heroku" width="7%" />
       </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="15%" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" 
+        alt="git" width="7%" />
       </a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-          alt="docker" width="15%" />
+          alt="docker" width="7%" />
       </a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="15%" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+        alt="linux" width="7%" />
       </a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
-        alt="bash" width="15%" />
+        alt="bash" width="7%" />
       </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
-        alt="postman" width="15%" />
+        alt="postman" width="7%" />
       </a>
     </div>
     <br />
@@ -127,24 +132,24 @@ felipeschirmann {
       <br />
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" 
-        alt="mariadb" width="15%" />
+        alt="mariadb" width="7%" />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql" width="15%" />
+          alt="mysql" width="7%" />
       </a>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb" width="15%" />
+          alt="mongodb" width="7%" />
       </a>
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-          alt="postgresql" width="15%" />
+          alt="postgresql" width="7%" />
       </a>
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" 
-        alt="firebase" width="15%" />
+        alt="firebase" width="7%" />
       </a>
     </div>
     <br />
@@ -158,27 +163,28 @@ felipeschirmann {
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-          alt="bootstrap" width="15%" />
+          alt="bootstrap" width="7%" />
       </a>
       <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg"
-          alt="adonisjs" width="15%" />
+          alt="adonisjs" width="7%" />
       </a>
       <a href="https://spring.io/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" 
-        alt="spring" width="15%" />
+        alt="spring" width="7%" />
       </a>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="15%" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" 
+        alt="wordpress" width="7%" />
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-          alt="laravel" width="15%" />
+          alt="laravel" width="7%" />
       </a>
       <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-          alt="cypress" width="15%" />
+          alt="cypress" width="7%" />
       </a>
     </div>
     <br />
@@ -186,16 +192,15 @@ felipeschirmann {
 </div>
 <br />
 <hr/>
+<br />
 <p align="center">
-  <img align="center"
+  <img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="felipeschirmann"  width="70%" />
-</p>
-<hr/>
-<p align="center">
+    alt="felipeschirmann"  width="40%" />
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="70%" />
+    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="50%" />
 </p>
+<br />
 <hr/>
 <br />
 <h3 align="left">Support:</h3>
