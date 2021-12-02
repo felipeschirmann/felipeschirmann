@@ -186,20 +186,16 @@ felipeschirmann {
 </div>
 <br />
 <hr/>
-<br />
 <p align="center">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="felipeschirmann"  width="48%" />
+    alt="felipeschirmann"  width="70%" />
 </p>
-<br />
 <hr/>
-<br />
 <p align="center">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="48%" />
+    src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=7000&theme=dark" width="70%" />
 </p>
-<br />
 <hr/>
 <br />
 <h3 align="left">Support:</h3>
