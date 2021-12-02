@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
     <div>
       <br />
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img
-          src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
+          src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg" alt="mariadb" width="40" height="40" />
       </a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -128,10 +128,7 @@ You can click the Preview link to take a look at your changes.
           alt="adonisjs" width="40" height="40" />
       </a>
       <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-          src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-      </a>
-      <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
-          src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" />
       </a>
       <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
