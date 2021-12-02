@@ -190,8 +190,8 @@ felipeschirmann {
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="felipeschirmann" />
+    <img align='right' src="https://github-readme-stats.vercel.app/api?username=felipeschirmann&show_icons=true&cache_seconds=2300&theme=dark"/>
 </p>
-
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/felipeschirmann">
