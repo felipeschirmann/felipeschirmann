@@ -89,8 +89,8 @@ You can click the Preview link to take a look at your changes.
       </a>
     </div>
   </kbd>
+  <br/>
   <kbd>
-    <br/>
     <kbd>Databases:</kbd>
     <div>
       <br />
@@ -142,9 +142,9 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
-    alt="felipeschirmann" />
+<img align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
+  alt="felipeschirmann" />
 
 
 <h3 align="left">Support:</h3>
