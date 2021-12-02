@@ -20,8 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <br />
-<div style="background-color:#fff; margin: 20px; padding: 20px;">
-  <kbd>
+<div style=" margin: 20px; padding: 20px;">
     <kbd>
       <kbd>Languages:</kbd>
       <div>
@@ -151,7 +150,6 @@ You can click the Preview link to take a look at your changes.
         </a>
       </div>
     </kbd>
-  </kbd>
 </div>
 <br />
 <br />
