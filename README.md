@@ -60,6 +60,7 @@ You can click the Preview link to take a look at your changes.
     </div>
   </kbd>
   <br/>
+  <br/>
   <kbd>
     <kbd>Tools:</kbd>
     <div>
@@ -121,6 +122,7 @@ You can click the Preview link to take a look at your changes.
       </a>
     </div>
   </kbd>
+  <br/>
   <br/>
   <kbd>
     <kbd>Frameworks:</kbd>
