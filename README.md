@@ -104,25 +104,27 @@ You can click the Preview link to take a look at your changes.
 </kbd>
 <kbd align="center">
   <kbd>Frameworks:</kbd>
-  <br />
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-  </a>
-  <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-      alt="laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-      alt="cypress" width="40" height="40" />
-  </a>
+  <div>
+    <br />
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+        alt="bootstrap" width="40" height="40" />
+    </a>
+    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40" />
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+        alt="laravel" width="40" height="40" />
+    </a>
+    <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img
+        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
+        alt="cypress" width="40" height="40" />
+    </a>
+  </div>
 </kbd>
 <br />
 <p><img align="center"
