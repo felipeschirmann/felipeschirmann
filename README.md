@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <br />
-<div style=" margin: 20px; padding: 20px;">
+<div style=" margin: 20px; padding: 20px; border: 3px; border-color: black;">
     <kbd>
       <kbd>Languages:</kbd>
       <div>
