@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Languages and Tools:</h3>
 <br />
-<kbd>
+<kbd style="background-color: bisque;">
   <kbd>
     <kbd>Languages:</kbd>
     <div>
@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
           alt="react" width="40" height="40" />
       </a>
       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
           alt="java" width="40" height="40" />
       </a>
       <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
@@ -68,11 +68,11 @@ You can click the Preview link to take a look at your changes.
           alt="aws" width="40" height="40" />
       </a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" 
           alt="heroku" width="40" height="40" />
       </a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" 
           alt="git" width="40" height="40" />
       </a>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
