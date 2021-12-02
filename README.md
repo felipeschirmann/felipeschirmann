@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <kbd>
     <kbd>Languages:</kbd>
-    <div>
+    <div style="margin: 20px; padding: 20px;">
       <br />
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <kbd>
     <kbd>Tools:</kbd>
-    <div>
+    <div style="margin: 20px; padding: 20px;">
       <br />
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img
@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
   <br />
   <kbd>
     <kbd>Databases:</kbd>
-    <div>
+    <div style="margin: 20px; padding: 20px;">
       <br />
       <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
@@ -126,7 +126,7 @@ You can click the Preview link to take a look at your changes.
   <br/>
   <kbd>
     <kbd>Frameworks:</kbd>
-    <div>
+    <div style="margin: 20px; padding: 20px;">
       <br />
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
