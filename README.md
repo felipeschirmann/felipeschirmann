@@ -5,7 +5,36 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm {Felipe Schirmann}</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
 
-```javascript-original
+
+<details>
+  <summary>var acknowledgements</summary>
+  ```javascript
+  "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
+  "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
+  "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
+  "Frameworks Backend" = ["Adonis", "SpringBoot", "Laravel"],
+  "CMS" = ["WordPress", "Joomla"],
+  "Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
+  "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
+  "Tools - Monitoring" = ["Zabbix"]
+  ```
+</details>
+<details>
+  <summary>var studiesInProgress</summary>
+  ```javascript
+  "Frameworks Backend" = ["SpringBoot", "Adonis"],
+  "Software Development" = ["Design Patterns", "Test-driven development"]
+  ```
+</details>
+<details>
+  <summary>var studiesForFuture</summary>
+  ```javascript
+  "Languages" = ["Python", "Go" ,"RegEx"],
+  "DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"]
+  ```
+</details>
+
+```javascript
 felipeschirmann {
 const name = "Felipe Schirmann Francisco",
 var acknowledgements = [
