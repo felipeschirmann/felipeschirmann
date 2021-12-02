@@ -7,8 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <details>
-  <summary>var acknowledgements</summary>
+  <summary>acknowledgements</summary>
   ```javascript
+  {
   "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP", "C", "C++" ],
   "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
   "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
@@ -17,20 +18,25 @@ You can click the Preview link to take a look at your changes.
   "Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
   "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
   "Tools - Monitoring" = ["Zabbix"]
+  }
   ```
 </details>
 <details>
-  <summary>var studiesInProgress</summary>
+  <summary>studiesInProgress</summary>
   ```javascript
-  "Frameworks Backend" = ["SpringBoot", "Adonis"],
+  {
+    "Frameworks Backend" = ["SpringBoot", "Adonis"],
   "Software Development" = ["Design Patterns", "Test-driven development"]
+  }
   ```
 </details>
 <details>
-  <summary>var studiesForFuture</summary>
+  <summary>studiesForFuture</summary>
   ```javascript
+  {
   "Languages" = ["Python", "Go" ,"RegEx"],
   "DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"]
+  }
   ```
 </details>
 
