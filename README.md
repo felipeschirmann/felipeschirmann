@@ -186,7 +186,7 @@ felipeschirmann {
 </div>
 <br />
 <br />
-<p>
+<p align="center">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=felipeschirmann&show_icons=true&locale=en&layout=compact&theme=dark"
     alt="felipeschirmann" />
