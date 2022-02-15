@@ -1,6 +1,8 @@
 <!---
 felipeschirmann/felipeschirmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+Refs: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66
+
 --->
 <h1 align="center">Hi 👋, I'm {Felipe Schirmann}</h1>
 <h3 align="center">A passionate developer from Brasil</h3>
@@ -28,6 +30,11 @@ felipeschirmann {
   ];
 }
 ```
+
+<p align="center">
+ <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/github-contribution-grid-snake.svg" 
+      alt="snake" />
+</p>
 
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=felipeschirmann&label=Profile%20views&color=0e75b6&style=flat"
