@@ -23,10 +23,11 @@ felipeschirmann {
   let studiesInProgress = [
     "Frameworks Backend" = ["SpringBoot", "Adonis"],
     "Software Development" = ["Design Patterns", "Test-driven development"]
+    "DevOps" = ["Kubernets", "Jenkins"]
   ];
   let studiesForFuture = [
     "Languages" = ["Python", "Go" ,"RegEx"],
-    "DevOps" = ["Ansible", "Jenkins", "Terraform", "Kubernets", "Kafka"]
+    "DevOps" = ["Ansible", "Terraform", "Kafka"]
   ];
 }
 ```
