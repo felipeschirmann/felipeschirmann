@@ -11,23 +11,22 @@ Refs: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-re
 felipeschirmann {
   const name = "Felipe Schirmann Francisco";
   let acknowledgements = [
-    "Languages" = [ "HTML 5", "CSS3", "JavaScript", "NodeJS", "TypeScript", "ReactJS", "Java", "PHP",   "C", "C++" ],
+    "Languages" = [ "JavaScript", "TypeScript", "Java", "PHP", "C", "C++" ],
     "Databases" = ["Maria DB", "MySql", "MongoDB", "PostgreSQL", "Firebase"],
-    "Frameworks Frontend" = ["Bootstrap", "Grafana" ],
+    "Frameworks Frontend" = ["Bootstrap", "Grafana", "ReactJS"],
     "Frameworks Backend" = ["Adonis", "SpringBoot", "Laravel"],
     "CMS" = ["WordPress", "Joomla"],
     "Tools - Dev" = ["Docker", "Git", "Postman","Insomnia"],
-    "Tools - Cloud" = ["Amazon webservices", "Heroku", "Cloudfare"],
+    "Tools - Cloud" = ["Amazon EC2", "Heroku", "Cloudfare", "Oracle Cloud Infrastructure (OCI)", "Azure Devops"],
     "Tools - Monitoring" = ["Zabbix"]
   ];
   let studiesInProgress = [
     "Frameworks Backend" = ["SpringBoot", "Adonis"],
     "Software Development" = ["Design Patterns", "Test-driven development"]
-    "DevOps" = ["Kubernets", "Jenkins"]
+    "DevOps" = ["Kubernets", "Jenkins","Ansible", "Terraform", "Kafka"]
   ];
   let studiesForFuture = [
-    "Languages" = ["Python", "Go" ,"RegEx"],
-    "DevOps" = ["Ansible", "Terraform", "Kafka"]
+    "Languages" = ["Python", "Go"]
   ];
 }
 ```
