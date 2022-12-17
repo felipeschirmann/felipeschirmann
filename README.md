@@ -32,11 +32,8 @@ felipeschirmann {
 }
 ```
 
-![GitHub Snake Light](https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake.svg#gh-dark-mode-only)
-
 <p align="center">
- <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/ocean.gif" 
+ <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake.svg" 
       alt="snake" />
 </p>
 
