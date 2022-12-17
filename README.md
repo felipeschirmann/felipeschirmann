@@ -32,6 +32,9 @@ felipeschirmann {
 }
 ```
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <p align="center">
  <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/ocean.gif" 
       alt="snake" />
