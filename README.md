@@ -32,7 +32,7 @@ felipeschirmann {
 ```
 
 <p align="center">
- <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake.svg" 
+ <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake-dark.svg" 
       alt="snake" />
 </p>
 
