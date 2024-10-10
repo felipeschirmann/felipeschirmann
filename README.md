@@ -31,11 +31,6 @@ felipeschirmann {
 }
 ```
 
-<p align="center">
- <img src="https://github.com/felipeschirmann/felipeschirmann/blob/output/github-snake-dark.svg" 
-      alt="snake" />
-</p>
-
 <p align="left"> <img
     src="https://komarev.com/ghpvc/?username=felipeschirmann&label=Profile%20views&color=0e75b6&style=flat"
     alt="felipeschirmann" />
